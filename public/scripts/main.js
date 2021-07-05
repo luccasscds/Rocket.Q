@@ -1,6 +1,8 @@
 import Modal from './modal.js'
+import Copy from './copy.js'
 
 const modal = Modal()
+const copy = Copy()
 
 const modalTitle = document.querySelector('.modal h2')
 const modalDescription = document.querySelector('.modal p')
@@ -42,3 +44,8 @@ function handleClick(event, check = true) {
 
     modal.open()
 }
+
+
+// Copy Code room
+const roomCode = document.querySelector('#room-id')
+roomCode.addEventListener('click', copy.copying)
