@@ -1,0 +1,1 @@
+[x] fazer uma função para copiar o codigo da sala no room;
