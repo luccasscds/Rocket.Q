@@ -7,8 +7,10 @@ async function copying() {
     await buttonHoverOn.classList.add('on')
     await copedMessage.classList.add('active')
 
-    await inputCopy.select()
-    await document.execCommand('copy')
+    //await inputCopy.select()
+    //await document.execCommand('copy')
+    
+    navigator.clipboard.writeText(inputCopy.value)
 
     await setTimeout(() => {
         copedMessage.classList.remove('active')
