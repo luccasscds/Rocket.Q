@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
 ## 🔖 Layout
-Você pode ver o projeto na parte do front-end através [desse link](https://rocketq1.netlify.app/).
+Você pode ver o projeto, com páginas estáticas, através [desse link](https://rocketq1.netlify.app/).
 
 ## 📥 Dowloand
 Outa opção para visualizar o projeto é baixando o projeto. Veja o passo a passo:
