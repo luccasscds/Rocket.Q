@@ -9,7 +9,7 @@
   <a href="#-dowloand">Dowloand</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/Rocket_Q.png">
+<img src="https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/capa.png">
 
 ## 🎫 Evento
 Esse projeto foi desenvolvido na nlw together.
